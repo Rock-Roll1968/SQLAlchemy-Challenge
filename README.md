@@ -7,7 +7,7 @@
 ## Description
 Hawaii Vacation weather analysis
 
-![app_image]("C:\Users\ernes\Homework\10-Advanced-SQL\SQLAlchemy-Challenge\12mth temperature.png")
+![app_image](12mth temperature.png")
 
 ## Table of Contents
 - [Installation](#installation)
