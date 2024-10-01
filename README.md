@@ -7,7 +7,7 @@
 ## Description
 Hawaii Vacation weather analysis
 
-![app_image](SurfsUp/output_data/Fig2.png)
+![app_image](12mth temperature.png)
 
 ## Table of Contents
 - [Installation](#installation)
