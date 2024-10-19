@@ -7,7 +7,7 @@
 ## Description
 Hawaii Vacation weather analysis
 
-![app_image](SQLAlchemy-Challenge\SurfsUp\12mth_temperature.png)
+![app_image](12mth_temperature.png)
 
 ## Table of Contents
 - [Installation](#installation)
